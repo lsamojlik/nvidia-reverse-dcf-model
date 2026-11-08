@@ -6,9 +6,9 @@ Dotychczasowy brak Nvidii w portfelu – pomimo wysokiego przekonania, że AI b�
 
 Mogła również pojawić się niechęć do inwestowania w spółkę o najwyższej kapitalizacji na giełdzie – historyczne wyniki potwierdzają, że największe spółki pod względem kapitalizacji z reguły osiągały słabsze wyniki niż szeroki indeks. Powodem była zazwyczaj wymagająca wycena – pomimo kapitalnego modelu biznesowego firmom brakowało już paliwa do dalszych wzrostów cen akcji.
 
-Jednak Nvidia jest obecnie tańsza niż indeks S&P 500, nawet bazując na bieżącym P/E (minka szok). W ujęciu forward „taniość” Nvidii jest jeszcze bardziej widoczna.
+Jednak Nvidia jest obecnie tańsza niż indeks S&P 500, nawet bazując na bieżącym P/E. W ujęciu forward „taniość” Nvidii jest jeszcze bardziej widoczna.
  
-**Jak tania jest obecnie Nvidia?** Przygotowałem model odwróconego DCF, aby sprawdzić, jaka dynamika FCF jest wpisana w cenę zamknięcia z 05.11.2026. Model można pobrać i edytować na moim profilu GitHub: LINK.
+**Jak tania jest obecnie Nvidia?** Przygotowałem model odwróconego DCF, aby sprawdzić, jaka dynamika FCF jest wpisana w cenę zamknięcia z 05.11.2026. Model można pobrać i edytować na moim profilu GitHub: [LINK](https://github.com/lsamojlik/nvidia-reverse-dcf-model).
 
 **Założenia:** okres prognozy 10 lat, stopa dyskontowa (średnioważony koszt kapitału + premia za ryzyko) 10%, wzrost terminalny 3%.
 
