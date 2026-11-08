@@ -1,4 +1,4 @@
-**Wpis na Linkedin: link**
+**Wpis na Linkedin: [link](https://www.linkedin.com/in/%C5%82ukasz-samojlik-48227416b/)**
 
 **„Nie mam miejsca w portfelu na najlepszą spółkę na świecie”** – takie zdanie padło przy okazji mojej czwartkowej rozmowy o sytuacji na rynku. Zatrzymajmy się na chwilę i zastanówmy, czy przy obecnej cenie Nvidii rzeczywiście „stać nas” na to, żeby dalej nie mieć jej w portfelu.
 
